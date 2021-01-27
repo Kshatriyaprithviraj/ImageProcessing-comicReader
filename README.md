@@ -2,8 +2,8 @@
 This is a simple image recognition app (or Image processing app, in the strict sense) to process image passed to it as an input.
 
 # ToolBox 🧰
-* python@3.9.1
-* (PIL) pillow@8.1.0
+* **python@3.9.0**
+* **(PIL)pillow@8.1.0**
 
 # Invocation in Terminal 🏃🏻‍♂️
 `$ comic.py [options]`

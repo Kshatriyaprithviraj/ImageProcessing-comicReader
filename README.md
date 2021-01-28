@@ -6,6 +6,7 @@ This is a simple **Image processing** app, to process image, i.e., given an **M 
 * **(PIL)pillow@8.1.0**
 
 # Invocation in Terminal 🏃🏻‍♂️
+`$ pip install pillow`
 `$ comic.py [options]`
 
 Valid Options are: ✔️

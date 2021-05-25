@@ -35,5 +35,5 @@ Valid Options are: ✔️
 - `/nav/to/folder/containing/the/file`
 - `python comic.py -h`  **or**  `python comic.py --help`
 
-**Have a productive time writing code amigos & amigas !!** 🧸
+**Have a productive time writing code amigos & amigas !!** 🧸 <br>
 Cheers !! 🥂

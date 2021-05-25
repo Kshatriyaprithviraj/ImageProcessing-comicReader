@@ -1,5 +1,5 @@
 # ImageRecognition-comicReader 🔭
-This is a simple **Image processing** app, to process image, i.e., given an **M x N** dimensional image as an input consisting of frames, it'll return as output **K** different images i.e., the clustered frames are extracted out of the image as separates **K** different images.
+This is a simple **Image processing** app, to process image, i.e., given an **M x N** dimensional image as an input consisting of frames, it'll return as output **K** different images i.e., the clustered frames are extracted out of the image as separate(d) **K** different images.
 
 # ToolBox 🧰
 * **python@3.9.0**

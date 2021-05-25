@@ -36,3 +36,4 @@ Valid Options are: ✔️
 - `python comic.py -h`  **or**  `python comic.py --help`
 
 **Have a productive time writing code amigos & amigas !!** 🧸
+Cheers !! 🥂

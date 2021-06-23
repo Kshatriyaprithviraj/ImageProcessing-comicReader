@@ -1,15 +1,21 @@
 # ImageRecognition-comicReader 🔭
-This is a simple **Image processing** app, to process image, i.e., given an **M x N** dimensional image as an input consisting of frames, it'll return as output **K** different images i.e., the clustered frames are extracted out of the image as separate(d) **K** different images.
+
+This is a simple **Image processing** app, to process image, i.e., given an **M x N** dimensional image as an input consisting of frames, it'll return as output **K** different images i.e., the clustered frames are extracted out of the image as separate **K** different images.
 
 # ToolBox 🧰
-* **python@3.9.0**
-* **(PIL)pillow@8.1.0**
+
+- **python@3.9.0**
+- **(PIL)pillow@8.1.0**
 
 # Invocation in Terminal 🏃🏻‍♂️
-`$ pip install pillow` <br>
-`$ comic.py [options]`
+
+If you don't have **pipenv** installed, first run `pip install pipenv` and then, <br>
+`pipenv shell` <br>
+`pipenv run pip install pillow` <br>
+`comic.py [options]`
 
 Valid Options are: ✔️
+
 ```
  --version             show program's version number and exit
   -h, --help            show this help message and exit
@@ -31,9 +37,12 @@ Valid Options are: ✔️
 ```
 
 # Alternative 🔃
+
 - `git clone`
 - `/nav/to/folder/containing/the/file`
-- `python comic.py -h`  **or**  `python comic.py --help`
+- `pipenv run pip install pillow`
+- `pipenv shell`
+- `python comic.py -h` **or** `python comic.py --help`
 
 **Have a productive time writing code amigos & amigas !!** 🧸 <br>
 Cheers !! 🥂
